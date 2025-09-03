@@ -17,7 +17,7 @@
       "blockExplorerUrls": ["https://etherscan.io"],
       "platform": "ethereum",
       "rpcs": [
-        "https://mempool.merkle.io/rpc/eth/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1",
+        "https://mempool.merkle.io/rpc/eth/pk_mbs_d4f7814bffd9056297e7b4efe8678764",
         "https://ethereum-rpc.publicnode.com",
         "https://eth.merkle.io",
         "https://ethereum.rpc.subquery.network/public",
@@ -717,7 +717,7 @@
       "blockExplorerUrls": ["https://bscscan.com"],
       "platform": "ethereum",
       "rpcs": [
-        "https://mempool.merkle.io/rpc/bsc/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1",
+        "https://mempool.merkle.io/rpc/bsc/pk_mbs_d4f7814bffd9056297e7b4efe8678764",
         "https://bsc-dataseed2.binance.org",
         "https://bsc-dataseed3.binance.org",
         "https://bsc-dataseed4.binance.org",
@@ -1613,7 +1613,7 @@
       "blockExplorerUrls": ["https://polygonscan.com/"],
       "platform": "ethereum",
       "rpcs": [
-        "https://mempool.merkle.io/rpc/polygon/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1",
+        "https://mempool.merkle.io/rpc/polygon/pk_mbs_d4f7814bffd9056297e7b4efe8678764",
         "https://polygon-rpc.com/",
         "https://polygon-mainnet.public.blastapi.io",
         "https://polygon.rpc.subquery.network/public",
@@ -11743,7 +11743,7 @@
       "blockExplorerUrls": ["https://basescan.org"],
       "platform": "ethereum",
       "rpcs": [
-        "https://mempool.merkle.io/rpc/base/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1",
+        "https://mempool.merkle.io/rpc/base/pk_mbs_d4f7814bffd9056297e7b4efe8678764",
         "https://mainnet.base.org/",
         "https://base.publicnode.com",
         "https://developer-access-mainnet.base.org/",
@@ -15657,7 +15657,7 @@
       "blockExplorerUrls": ["https://arbiscan.io/"],
       "platform": "ethereum",
       "rpcs": [
-        "https://mempool.merkle.io/rpc/arbitrum/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1",
+        "https://mempool.merkle.io/rpc/arbitrum/pk_mbs_d4f7814bffd9056297e7b4efe8678764",
         "https://arb1.arbitrum.io/rpc",
         "https://arbitrum.rpc.subquery.network/public",
         "https://rpc.ankr.com/arbitrum",
